@@ -1,0 +1,20 @@
+{
+	"oms": [
+		"https://www.who.int/tools/child-growth-standards/standards/weight-for-age?utm_source=chatgpt.com",
+		"https://www.who.int/toolkits/child-growth-standards/standards/length-height-for-age?utm_source=chatgpt.com",
+		"https://www.who.int/tools/child-growth-standards/standards/head-circumference-for-age?utm_source=chatgpt.com"
+	],
+	"who": [
+		"https://www.cdc.gov/growthcharts/who-data-files.htm?utm_source=chatgpt.com"
+	],
+	"obregozo": [
+		"https://www.fundacionorbegozo.com/el-instituto-de-investigacion-del-crecimiento-y-desarrollo/graficas-y-tablas/?utm_source=chatgpt.com",
+		"https://www.fundacionorbegozo.com/wp-content/uploads/pdf/estudios_2011.pdf?utm_source=chatgpt.com",
+		"https://www.who.int/tools/child-growth-standards/standards/head-circumference-for-age?utm_source=chatgpt.com"
+	],
+	"esp_2008/10": [
+		"https://www.analesdepediatria.org/es-download-pdf-S1695403308702054?utm_source=chatgpt.com",
+		"https://static.aeped.es/eecweb14_09_10_6686e74f01.pdf?utm_source=chatgpt.com",
+		"https://www.cdc.gov/growthcharts/cdc-data-files.htm?utm_source=chatgpt.com"
+	]
+}
