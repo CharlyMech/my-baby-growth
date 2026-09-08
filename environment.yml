@@ -1,0 +1,10 @@
+name: my-baby-growth
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - pip
+  - polars
+  - pydantic
+  - ipywidgets
+  - jupyter
