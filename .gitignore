@@ -1,0 +1,7 @@
+# Ignore data files
+data/*.json
+data/*.csv
+!data/*.example.*
+
+# Python cache directories
+__pycache__/
