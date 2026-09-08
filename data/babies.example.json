@@ -1,0 +1,19 @@
+[
+	{
+		"id": "",
+		"name": "",
+		"last_name": "",
+		"birth_datetime": "",
+		"gender": "",
+		"birth_weight_kg": 0,
+		"birth_height_cm": 0,
+		"birth_head_circum_cm": null,
+		"birth_place": {
+			"name": "",
+			"address": "",
+			"latitude": 0,
+			"longitude": 0
+		},
+		"birth_type": "VAGINAL"
+	}
+]
